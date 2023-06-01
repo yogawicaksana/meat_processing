@@ -1,0 +1,52 @@
+A picked pork at 13:59:57. Pork servings left: 6.
+B picked beef at 13:59:57. Beef servings left: 9.
+C picked chicken at 13:59:57. Chicken servings left: 4.
+B processed beef at 13:59:58.
+E picked beef at 13:59:58. Beef servings left: 8.
+A processed pork at 13:59:59.
+D picked pork at 13:59:59. Pork servings left: 5.
+E processed beef at 13:59:59.
+C processed chicken at 14:00:00.
+D processed pork at 14:00:01.
+A picked chicken at 14:00:01. Chicken servings left: 3.
+B picked beef at 14:00:01. Beef servings left: 7.
+C picked pork at 14:00:01. Pork servings left: 4.
+B processed beef at 14:00:02.
+E picked beef at 14:00:02. Beef servings left: 6.
+C processed pork at 14:00:03.
+E processed beef at 14:00:03.
+A processed chicken at 14:00:04.
+D picked chicken at 14:00:04. Chicken servings left: 2.
+D processed chicken at 14:00:07.
+A picked chicken at 14:00:07. Chicken servings left: 1.
+B picked pork at 14:00:07. Pork servings left: 3.
+C picked beef at 14:00:07. Beef servings left: 5.
+C processed beef at 14:00:08.
+B processed pork at 14:00:09.
+E picked pork at 14:00:09. Pork servings left: 2.
+A processed chicken at 14:00:10.
+D picked chicken at 14:00:10. Chicken servings left: 0.
+E processed pork at 14:00:11.
+D processed chicken at 14:00:13.
+A picked beef at 14:00:13. Beef servings left: 4.
+B picked pork at 14:00:13. Pork servings left: 1.
+C can't find chicken.
+A processed beef at 14:00:14.
+D picked beef at 14:00:14. Beef servings left: 3.
+B processed pork at 14:00:15.
+D processed beef at 14:00:15.
+E picked pork at 14:00:15. Pork servings left: 0.
+E processed pork at 14:00:17.
+A picked beef at 14:00:17. Beef servings left: 2.
+B can't find chicken.
+C can't find pork.
+E can't find chicken.
+A processed beef at 14:00:18.
+D picked beef at 14:00:18. Beef servings left: 1.
+D processed beef at 14:00:19.
+A can't find pork.
+B can't find chicken.
+C picked beef at 14:00:19. Beef servings left: 0.
+D can't find pork.
+E can't find chicken.
+C processed beef at 14:00:20.
